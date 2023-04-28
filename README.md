@@ -1,5 +1,5 @@
 # Login and Registration System
-This is a simple login and registration system built using React and React Router. It allows users to register a new account, log in, and view their dashboard.
+This is a simple login and registration system built using React, Vite.js and React Router. It allows users to register a new account, log in, and view their dashboard.
 
 # Features
 User registration
